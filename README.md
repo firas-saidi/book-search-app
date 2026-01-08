@@ -2,7 +2,7 @@
 
 A modern, responsive web application for searching and exploring books using the Open Library API. Built with Next.js 16, TypeScript, and Tailwind CSS.
 
-![Project Preview](https://via.placeholder.com/1200x600?text=Book+Search+App+Preview)
+![Project Preview](Screenshot.png)
 
 ## ✨ Features
 
@@ -38,7 +38,7 @@ Ensure you have the following installed:
 1.  **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/book-search-app.git
+    git clone https://github.com/firas-saidi/book-search-app.git
     cd book-search-app
     ```
 
