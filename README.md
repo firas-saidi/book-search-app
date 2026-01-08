@@ -65,18 +65,6 @@ Ensure you have the following installed:
 4.  **Open your browser:**
     Navigate to [http://localhost:3000](http://localhost:3000) to see the app in action.
 
-## 📦 Build & Deployment
-
-### Vercel (Recommended)
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
-
-1.  Push your code to a GitHub repository.
-2.  Go to **Vercel** and sign up/login.
-3.  Click **"Add New..."** > **"Project"**.
-4.  Import your GitHub repository.
-5.  Click **"Deploy"**. Vercel will automatically detect the Next.js configuration and build your site.
-
 ### Manual Build
 
 To create a production build locally:
